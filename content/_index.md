@@ -15,7 +15,7 @@ title = "Schedule"
 ## Course goals
 
 In this course, you will become familiar with tools and best practices
-for scientific software development.  We don't teach programming, but we teach the tools you need
+for scientific software development. This course will not teach a programming language, but we teach the tools you need
 to do programming well and avoid common inefficiency traps.
 The tools we teach are
 practically a requirement for any scientist that has to do their own programming. The main
