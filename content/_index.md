@@ -144,11 +144,6 @@ The schedule includes frequent breaks.
 - Radovan Bast
 
 
-#### Host
-
-- TBA
-
-
 #### Instructors and expert helpers
 
 - TBA
