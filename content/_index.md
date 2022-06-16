@@ -5,7 +5,10 @@ title = "Schedule"
 <div class="alert alert-info">
 <span style="color:darkred;font-weight:bold">News:</span>
 
-* Registration will open soon.
+* Registration will open soon. You can sign up
+  [here](https://coderefinery.org/workshops/upcoming/#notify-me) to get
+  notified once we open registration. We plan to open registration before
+  end of June.
 
 </div>
 
