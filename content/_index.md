@@ -140,7 +140,8 @@ The schedule includes frequent breaks.
 
 #### Coordinators
 
-- TBA
+- Matias Jääskeläinen
+- Radovan Bast
 
 
 #### Host
