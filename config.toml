@@ -2,7 +2,7 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://coderefinery.github.io/template-workshop-webpage/"
+base_url = "https://coderefinery.github.io/2022-09-20-workshop/"
 
 title = "CodeRefinery workshop September 20-22 and 27-29, 2022"
 
@@ -43,8 +43,8 @@ logos = [
 ]
 
 # adapt this
-registration_link = "https://example.org"
-source_repo = "https://github.com/coderefinery/template-workshop-webpage"
+registration_link = "https://indico.neic.no/event/226/"
+source_repo = "https://github.com/coderefinery/2022-09-20-workshop"
 
 # uncomment as soon as registration opens
 # registration_is_open = true
