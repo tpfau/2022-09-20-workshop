@@ -67,18 +67,18 @@ Type 1 Consortium for Interactive HPC (DK), and
 ## Schedule
 
 All times are in **Europe/Stockholm time (CEST)**. ([Convert 9:00 to
-your timezone](https://arewemeetingyet.com/Stockholm/2022-03-22/09:00))
+your timezone](https://arewemeetingyet.com/Stockholm/2022-09-20/09:00))
 The schedule includes frequent breaks.
 
 **Exercise leader onboarding**
-- TBA (Wednesday) 12:00 - 13:00 CET ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-03-16/12:00))
-- TBA (Thursday) 12:00 - 13:00 CET  ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-03-17/12:00))
+- Wednesday Sep 13, 12:00 - 13:00 CET ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-09-13/12:00))
+- Thursday Sep 14, 12:00 - 13:00 CET ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-09-14/12:00))
 
 **Installation help and verification times** (drop in)
-- TBA (Wednesday) 13:00 - 14:00 CET  ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-03-16/13:00))
-- TBA (Thursday) 13:00 - 14:00 CET   ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-03-17/13:00))
+- Wednesday Sep 13, 13:30 - 15:00 CET  ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-09-13/13:30))
+- Wednesday Sep 14, 13:30 - 15:00 CET  ([timezone converter](https://arewemeetingyet.com/Stockholm/2022-09-14/13:30))
 
-**Day 1 (weekday, date)**
+**Day 1 (Tue, Sep 20)**
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
@@ -87,19 +87,19 @@ The schedule includes frequent breaks.
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
   (TBA)
 
-**Day 2 (weekday, date)**
+**Day 2 (Wed, Sep 21)**
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 12:30
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
   (TBA)
 
-**Day 3 (weekday, date)**
+**Day 3 (Thu, Sep 22)**
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 12:30
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
   (TBA)
 
-**Day 4 (weekday, date)**
+**Day 4 (Tue, Sep 27)**
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 9:15
   [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
@@ -111,7 +111,7 @@ The schedule includes frequent breaks.
   [Social coding and open software](https://coderefinery.github.io/social-coding/)
   (TBA)
 
-**Day 5 (weekday, date)**
+**Day 5 (Wed, Sep 28)**
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 10:45
   [Jupyter](https://coderefinery.github.io/jupyter/)
@@ -120,7 +120,7 @@ The schedule includes frequent breaks.
   [Documentation](https://coderefinery.github.io/documentation/)
   (TBA)
 
-**Day 6 (weekday, date)**
+**Day 6 (Thu, Sep 29)**
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 10:45
   [Software testing](https://coderefinery.github.io/testing/)
