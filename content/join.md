@@ -73,48 +73,56 @@ and/or arrange a local breakout room.
   - Use Individual registration form and choose to participate in 
     online exercise group (Code Refinery Zoom). If we are full you 
     get the livestream anyway.
+  - Register as type ``Learner`` or ``Exercise leader``
 - **I am making my own team, how should I register?**
-  - Use the Group registration to register on behalf of the whole group.
-    Choose from the following in the registration form:
+  - The team contact person uses the Group registration to register on 
+    *behalf of the whole group.*
+    - The team contact person can also join our CodeRefinery chat to interact with us.
+  - Choose from the following in the registration form:
   - **Want to have an in-person team meet**
-    The team can follow the stream 
-  - **Want to manage everything yourself** (for example make your own
-    Zoom or in-person room): `Livestream only`.  The coordinator can
-    still join our CodeRefinery chat and interact with us.
-  - The coordinator could register on behalf of your team and forward
-    information to the others (but it's nice if everyone registers, see below).
+    The team can follow the stream from their meeting space and work together
+    on the exercises. We recommend to have some experienced people to act as
+    expert helpers.
+  - **Want to have an online team meet**
+    The team can follow the stream, and organise their own Zoom room to work 
+    on the exercises. We recommend to have some experienced people to act as
+    expert helpers.
   - **Want more personal support / don't have any expert helpers available**
     We can create a breakout room for your team in the Code Refinery `Zoom`
     This option may be good for less confident teams.
-    *The team can gather live or online and attend the zoom in one or more computers.*
-- **My complete team will work together in a physical room, is there
-  any point to joining your Zoom?**
-  - Expert helpers will drop by the Zoom breakout room and ask if
-    things are going OK.  If you won't want to screenshare with them
-    and see their demos, there is probably no point.  (Note that Zoom
-    is still useful in the physical room for screensharing with each
-    other).
-- **I want to make my team on my own, do I need to register?  Does
-  everyone on the team need to register?**
+    *The team can gather live or online and attend the Code Refinery zoom in one computer or individually.*
+- **Our team will work together in a physical room, is there any point to joining the Code Refinery Zoom?**
+  - The Code Refinery Zoom has some Expert helpers who will drop by 
+    the Zoom breakout rooms and ask if things are going OK. 
+    If your team has on-site expert helpers you are good to go by yourselves.
+    (Note that Zoom is still useful in the physical room for screensharing with each other).
+- **I want to make my team on my own, do I need to register? Does everyone on the team need to register?**
   - Technically you don't have to, if you carefully check the website
     for news.
-  - We prefer if you register so that we can report our impact better.
-    Also, the team gets emails direct from us and the HackMD links to
+  - We prefer that you (team contact person) register the team using 
+    group registration so that we can report our impact better.
+    Also, then you get emails direct from us and the HackMD links to
     ask questions.
 - **I'm an organization or group, I want to sponsor my community's teams!**
-  - Great!  You can do this with or without communicating with us.
-    Feel free to just make your own registration form and manage it if
-    you want.  Or talk with us organize them as part of our centrally organized Zoom.
-    [Read more about local breakout
-    rooms](https://coderefinery.github.io/manuals/local-breakout-rooms/)
+  - Great! In general what you can do is to gather people together to follow the workshop. 
+    [Read more about local breakout rooms](https://coderefinery.github.io/manuals/local-breakout-rooms/)
     and [contact us](https://coderefinery.github.io/manuals/chat/).
+  - If you arrange a local event, use our group registration to let us know!
+    - Feel free to just make your own registration form and manage attendees 
+      as you would do in your own events. 
+    - When registering the group, the group contact person can ask us to help with creating a registration form. 
+    - You can also encourage individuals to take part to our centrally organized Zoom.
+- **I registered individually but later decided to take part in a registered group. What do I do?**
+  - We are happy that you found yourself a group! Please withdraw 
+    your [individual registration](https://indico.neic.no/event/226/registrations/)
+    to make space for others.
 - **Why we recommend teams?**
   - People learn best in small groups, even if the primary teaching
     sessions can reach many people and be effective.  Our strategy
     gives us the best of both worlds.
 
 
-- Register as type ``Zoom Learner`` or ``Zoom Exercise leader``
+
 - You may register as a **solo learner**, we'll try to take as many as
   we can (up to the number of exercise leaders who volunteer)
 - If a **team** registers with their own exercise leader, you get
