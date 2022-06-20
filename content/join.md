@@ -24,13 +24,10 @@ anyone may attend the workshop.  With livestream attendance, you get:
 - Ability to do exercises yourself, or in a self-organized group.
 
 Attendees report a great experience with these livestream courses!
-**We recommend that you form your own team and do exercises together
-in your own breakout room (in-person or online)**.  We will support
-this as much as we can!  You *will* be able to ask us questions if you
-register.
+You *will* be able to ask us questions if you register.
 
 **Please register anyway so that you can get emails and we can better
-report our impact** (but you don't have to).
+report our impact.**
 
 ### Attend via livestream + Code Refinery Zoom
 
@@ -39,48 +36,57 @@ Learners watch the livestream during teaching, and work in Zoom during
 exercises.
 
 In Zoom, we group attendees into teams with an exercise leaders and
-help from our staff.  This makes a very interactive workshop, but
+help from our staff. This makes a very interactive workshop, but
 unfortunately we have limited resources to accept these
 registrations.
-
-- Register as type ``Zoom Learner`` or ``Zoom Exercise leader``
-- You may register as a **solo learner**, we'll try to take as many as
-  we can (up to the number of exercise leaders who volunteer)
-- If a **team** registers with their own exercise leader, you get
-  priority and we will try to accept the whole team.  Everyone on the
-  team should register separately and set the same `Team name` in the
-  registration.
 
 Attending via Zoom will give you everything the livestream does, with
 the possibly of centrally organized teams and a bit more help.
 
+### Attend with an own team
+
+**We recommend that you form your own team and do exercises together
+in your own breakout room (in-person or online)**.  We will support
+this as much as we can!
+This year we offer a team registration with lighter arrangements. 
+A team can self-organise, and use only one registration 
+form for the whole team. Team contact person registrates on behalf 
+of the whole team, makes sure that team members get all the 
+information and reports revised group information after the event to us.
+
 
 ### Attend in a local partner's event
 
-Some of our partners arrange an onsite meetings where they follow the teaching together and get in-person expert assistance. Check if one of [our partners](https://coderefinery.github.io/2022-09-20-workshop/#partners) is organising such an event, or if your educational institute has an event of their own. Feel free to suggest your educational institute to [become a partner](https://coderefinery.org/organization/partners/#joining-as-a-partner) and/or arrange a local breakout room.
+Some of our partners arrange an onsite meetings where they follow 
+the teaching together and get in-person expert assistance. 
+Check if one of 
+[our partners](https://coderefinery.github.io/2022-09-20-workshop/#partners) 
+is organising such an event, or if your educational institute has 
+an event of their own. Feel free to suggest your educational institute to 
+[become a partner](https://coderefinery.org/organization/partners/#joining-as-a-partner) 
+and/or arrange a local breakout room.
 
-### Attend with an own team
-
-This year we offer a team registration with lighter arrangements. A team can self-organise, and use only one registration form for the whole team. 
-Team contact person registrates on behalf of the whole team, makes sure that team members get all the information and reports revised group information after the event to us.
 
 ### FAQ: how should I register?
 
 - **I am alone and want to work with others, how should I register?**
-  - Register for Zoom (if we are full you get the livestream anyway)
-- **Why teams?**
-  - People learn best in small groups, even if the primary teaching
-    sessions can reach many people and be effective.  Our strategy
-    gives us the best of both worlds.
+  - Use Individual registration form and choose to participate in 
+    online exercise group (Code Refinery Zoom). If we are full you 
+    get the livestream anyway.
 - **I am making my own team, how should I register?**
-  - **Want more personal support:** `Zoom` you will have more
-    support from our expert helpers, which may be good for less
-    confident teams.
+  - Use the Group registration to register on behalf of the whole group.
+    Choose from the following in the registration form:
+  - **Want to have an in-person team meet**
+    The team can follow the stream 
   - **Want to manage everything yourself** (for example make your own
     Zoom or in-person room): `Livestream only`.  The coordinator can
     still join our CodeRefinery chat and interact with us.
   - The coordinator could register on behalf of your team and forward
     information to the others (but it's nice if everyone registers, see below).
+  - **Want more personal support / don't have any expert helpers available**
+    We can create a breakout room for your team in the Code Refinery `Zoom`
+    This option may be good for less confident teams.
+    *The team can gather live or online and attend the zoom in one or more computers.*
 - **My complete team will work together in a physical room, is there
   any point to joining your Zoom?**
   - Expert helpers will drop by the Zoom breakout room and ask if
@@ -102,8 +108,19 @@ Team contact person registrates on behalf of the whole team, makes sure that tea
     [Read more about local breakout
     rooms](https://coderefinery.github.io/manuals/local-breakout-rooms/)
     and [contact us](https://coderefinery.github.io/manuals/chat/).
+- **Why we recommend teams?**
+  - People learn best in small groups, even if the primary teaching
+    sessions can reach many people and be effective.  Our strategy
+    gives us the best of both worlds.
 
 
+- Register as type ``Zoom Learner`` or ``Zoom Exercise leader``
+- You may register as a **solo learner**, we'll try to take as many as
+  we can (up to the number of exercise leaders who volunteer)
+- If a **team** registers with their own exercise leader, you get
+  priority and we will try to accept the whole team.  Everyone on the
+  team should register separately and set the same `Team name` in the
+  registration.
 
 ### Price and Zoom priority policy
 
