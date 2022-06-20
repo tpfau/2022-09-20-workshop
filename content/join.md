@@ -32,9 +32,7 @@ register.
 **Please register anyway so that you can get emails and we can better
 report our impact** (but you don't have to).
 
-
-
-### Attend via livestream + Zoom
+### Attend via livestream + Code Refinery Zoom
 
 To provide interactive support, we also host parallel a Zoom session.
 Learners watch the livestream during teaching, and work in Zoom during
@@ -57,6 +55,14 @@ Attending via Zoom will give you everything the livestream does, with
 the possibly of centrally organized teams and a bit more help.
 
 
+### Attend in a local partner's event
+
+Some of our partners arrange an onsite meetings where they follow the teaching together and get in-person expert assistance. Check if one of [our partners](https://coderefinery.github.io/2022-09-20-workshop/#partners) is organising such an event, or if your educational institute has an event of their own. Feel free to suggest your educational institute to [become a partner](https://coderefinery.org/organization/partners/#joining-as-a-partner) and/or arrange a local breakout room.
+
+### Attend with an own team
+
+This year we offer a team registration with lighter arrangements. A team can self-organise, and use only one registration form for the whole team. 
+Team contact person registrates on behalf of the whole team, makes sure that team members get all the information and reports revised group information after the event to us.
 
 ### FAQ: how should I register?
 
