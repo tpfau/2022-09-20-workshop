@@ -12,6 +12,8 @@ even host in-person breakout rooms.  Read more about [how to attend a
 livestream
 course](https://coderefinery.github.io/manuals/how-to-attend-stream/).
 
+![Registering flowchart](CR_WS_Register_FAQ.001.png)
+
 ### Attend via livestream only
 
 The promise of the Internet is that we can reach everyone, so why
