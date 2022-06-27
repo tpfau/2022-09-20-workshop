@@ -10,6 +10,13 @@ title = "Schedule"
   notified once we open registration. We plan to open registration before
   end of June.
 
+* If you represent an organization with their own registration form,
+  you can manage that on your own and all we will ask you is to register the
+  teams and their contact point with us. Later (during or after the
+  workshop) we will ask you to give us actual participation numbers and also
+  provide us with the affiliation contry/countries of the participants and
+  their career stage/ job type.
+
 </div>
 
 ## Course goals
