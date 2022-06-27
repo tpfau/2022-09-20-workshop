@@ -14,6 +14,7 @@ course](https://coderefinery.github.io/manuals/how-to-attend-stream/).
 
 <img src="CR_WS_Register_FAQ.001.png" alt="Registering flowchart">
 
+
 ### Attend via livestream only
 
 The promise of the Internet is that we can reach everyone, so why
@@ -31,6 +32,7 @@ You *will* be able to ask us questions if you register.
 **Please register anyway so that you can get emails and we can better
 report our impact.**
 
+
 ### Attend via livestream + Code Refinery Zoom
 
 To provide interactive support, we also host parallel a Zoom session.
@@ -44,6 +46,7 @@ registrations.
 
 Attending via Zoom will give you everything the livestream does, with
 the possibly of centrally organized teams and a bit more help.
+
 
 ### Attend with an own team
 
@@ -71,40 +74,28 @@ and/or arrange a local breakout room.
 
 ### FAQ: how should I register?
 
-- **I am alone and want to work with others, how should I register?**
+- **I am registering alone (not as part of a team) and want to work with others,
+  how should I register?**
   - Use Individual registration form and choose to participate in 
     online exercise group (Code Refinery Zoom). If we are full you 
     get the livestream anyway.
   - Register as type ``Learner`` or ``Exercise leader``
 - **I am making my own team, how should I register?**
-  - The team contact person uses the Group registration to register on 
-    *behalf of the whole group.*
-    - The team contact person can also join our CodeRefinery chat to interact with us.
-  - Choose from the following in the registration form:
-  - **Want to have an in-person team meet**
-    The team can follow the stream from their meeting space and work together
-    on the exercises. We recommend to have some experienced people to act as
-    expert helpers.
-  - **Want to have an online team meet**
-    The team can follow the stream, and organise their own Zoom room to work 
-    on the exercises. We recommend to have some experienced people to act as
-    expert helpers.
-  - **Want more personal support / don't have any expert helpers available**
-    We can create a breakout room for your team in the Code Refinery `Zoom`
-    This option may be good for less confident teams.
-    *The team can gather live or online and attend the Code Refinery zoom in one computer or individually.*
+  - The team contact person uses the Team registration to register on 
+    *behalf of the whole team.*
+    The team contact person can also join our CodeRefinery chat to interact
+    with us.
 - **Our team will work together in a physical room, is there any point to joining the Code Refinery Zoom?**
   - The Code Refinery Zoom has some Expert helpers who will drop by 
     the Zoom breakout rooms and ask if things are going OK. 
     If your team has on-site expert helpers you are good to go by yourselves.
-    (Note that Zoom is still useful in the physical room for screensharing with each other).
+    (Note that Zoom can still be useful in the physical room for screensharing with each other).
 - **I want to make my team on my own, do I need to register? Does everyone on the team need to register?**
-  - Technically you don't have to, if you carefully check the website
-    for news.
   - We prefer that you (team contact person) register the team using 
-    group registration so that we can report our impact better.
-    Also, then you get emails direct from us and the HackMD links to
-    ask questions.
+    group registration so that we can report our impact better.  Also, then
+    you get emails direct from us and the HackMD links to ask questions.  In
+    other words only one person registers the team. Team members do not need
+    to register individually.
 - **I'm an organization or group, I want to sponsor my community's teams!**
   - Great! In general what you can do is to gather people together to follow the workshop. 
     [Read more about local breakout rooms](https://coderefinery.github.io/manuals/local-breakout-rooms/)
@@ -114,30 +105,26 @@ and/or arrange a local breakout room.
       as you would do in your own events. 
     - When registering the group, the group contact person can ask us to help with creating a registration form. 
     - You can also encourage individuals to take part to our centrally organized Zoom.
+  - If you create your own registration, we will need the following
+    information from you and you can provide this information via our team
+    registration during or after the workshop: number of learners, number of
+    exercise leads, the academic discipline of the team (if relevant),
+    country/countries of the affiliation of the leaners, and their career
+    stage/ job titles. You will see these questions when registering the
+    teams.
 - **I registered individually but later decided to take part in a registered group. What do I do?**
   - We are happy that you found yourself a group! Please withdraw 
     your [individual registration](https://indico.neic.no/event/226/registrations/)
-    to make space for others.
-- **Why we recommend teams?**
-  - People learn best in small groups, even if the primary teaching
-    sessions can reach many people and be effective.  Our strategy
-    gives us the best of both worlds.
+    to make space for others or contact us to help you with that.
 
-
-
-- You may register as a **solo learner**, we'll try to take as many as
-  we can (up to the number of exercise leaders who volunteer)
-- If a **team** registers with their own exercise leader, you get
-  priority and we will try to accept the whole team.  Everyone on the
-  team should register separately and set the same `Team name` in the
-  registration.
 
 ### Price and Zoom priority policy
 
 The course is free of charge, funded by the [Nordic e-Infrastructure
 Collaboration](https://neic.no/).
 
-When we have more sign-ups as **individual learners** than our capacity allows, the following priority criteria apply:
+When we have more sign-ups as **individual learners** for exercise groups than
+our capacity allows, the following priority criteria apply:
 
 1. Partner communities
 2. National universities or research institutes in Nordic countries and Estonia
