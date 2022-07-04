@@ -96,6 +96,8 @@ and/or arrange a local breakout room.
     you get emails direct from us and the HackMD links to ask questions.  In
     other words only one person registers the team. Team members do not need
     to register individually.
+- **I want to be an exercise lead or an observer. How do I register?**
+  - Use individual registration and choose corresponding attendance/participation type. Remember to answer also the last part questions intended for other than learners.
 - **I'm an organization or group, I want to sponsor my community's teams!**
   - Great! In general what you can do is to gather people together to follow the workshop. 
     [Read more about local breakout rooms](https://coderefinery.github.io/manuals/local-breakout-rooms/)
