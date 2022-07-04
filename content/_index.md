@@ -19,6 +19,7 @@ to self-organize their registration process and some organizations prefer that.
   (during or after the workshop) we will ask you to give us actual
   participation numbers and also provide us with the affiliation
   contry/countries of the participants and their career stage/ job type.
+  If it is helpful for your organization, we can also list your registration link here.
 
 </div>
 
