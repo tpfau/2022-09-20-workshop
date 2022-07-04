@@ -4,6 +4,9 @@ title = "Schedule"
 
 ## Registration
 
+Why is there not just one registration page? Because we allow teams and organizations
+to self-organize their registration process and some organizations prefer that.
+
 <div class="alert alert-info">
 
 - If you are at **Jyväskylä University**, please register [here](https://indico.neic.no/event/233/).
