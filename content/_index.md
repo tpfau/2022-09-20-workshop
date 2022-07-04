@@ -2,15 +2,14 @@
 title = "Schedule"
 +++
 
+## Registration
+
 <div class="alert alert-info">
-<span style="color:darkred;font-weight:bold">News:</span>
 
-* Registration will open soon. You can sign up
-  [here](https://coderefinery.org/workshops/upcoming/#notify-me) to get
-  notified once we open registration. We plan to open registration before
-  end of June.
-
-* If you represent an organization with their own registration form,
+- If you are at **Jyväskylä University**, please register [here](https://indico.neic.no/event/233/).
+- If you are participating via **SNIC/ENCCS** (Sweden), we will share a registration link with you soon.
+- **Everybody else**, please use [this registration link](https://indico.neic.no/event/226/).
+- **If you represent an organization with their own registration form**,
   you can manage that on your own and all we will ask you is to register the
   teams and their contact point with us. Later (during or after the
   workshop) we will ask you to give us actual participation numbers and also
@@ -18,6 +17,7 @@ title = "Schedule"
   their career stage/ job type.
 
 </div>
+
 
 ## Course goals
 
