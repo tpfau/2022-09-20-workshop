@@ -13,11 +13,12 @@ to self-organize their registration process and some organizations prefer that.
 - If you are participating via **SNIC/ENCCS** (Sweden), we will share a registration link with you soon.
 - **Everybody else**, please use [this registration link](https://indico.neic.no/event/226/).
 - **If you represent an organization with their own registration form**,
-  you can manage that on your own and all we will ask you is to register the
-  teams and their contact point with us. Later (during or after the
-  workshop) we will ask you to give us actual participation numbers and also
-  provide us with the affiliation contry/countries of the participants and
-  their career stage/ job type.
+  you can manage that on your own and all we will ask you is to [register the
+  teams and their contact
+  point](https://indico.neic.no/event/226/registrations/124/) with us. Later
+  (during or after the workshop) we will ask you to give us actual
+  participation numbers and also provide us with the affiliation
+  contry/countries of the participants and their career stage/ job type.
 
 </div>
 
