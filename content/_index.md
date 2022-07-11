@@ -15,7 +15,7 @@ to self-organize their registration process and some organizations prefer that.
 
 </div>
 
-**If you want to join as organization represent an organization with their own
+**If you want to join as organization or if you represent an organization with their own
 registration form**, you can manage that on your own and all we will ask you is
 to [register the teams and their contact
 point](https://indico.neic.no/event/226/registrations/124/) with us. Later
