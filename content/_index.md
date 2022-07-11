@@ -12,6 +12,12 @@ to self-organize their registration process and some organizations prefer that.
 [General registration](https://indico.neic.no/event/226/) (except if you belong to one of the organizations below):
 - [Jyväskylä University](https://indico.neic.no/event/233/)
 - SNIC/ENCCS (Sweden): we will share a registration link with you soon
+- TU Delft: Please register in the following [waiting list](https://c.spotler.com/ct/m7/k1/b84Ar-ips1OhrZMd-JQS0tRRLJTB6SkaCKj2sqSkXzOsBjZ2K_byUpwohTfj9v7Y/BtnNfGfZjeEVZfL).
+  We will try to allocate you in a team with an exercise leader. Being on the
+  waiting list does not guarantee you a spot. You will receive a confirmation
+  email if you are registered in the workshop. If you would like to register as
+  a team and you can provide an exercise leader, please contact
+  [Paula Martinez Lavanchy](mailto:p.m.martinezlavanchy@tudelft.nl).
 
 </div>
 
