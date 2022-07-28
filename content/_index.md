@@ -18,6 +18,7 @@ to self-organize their registration process and some organizations prefer that.
   email if you are registered in the workshop. If you would like to register as
   a team and you can provide an exercise leader, please contact
   [Paula Martinez Lavanchy](mailto:p.m.martinezlavanchy@tudelft.nl).
+- [VU Amsterdam](https://vu-nl.libcal.com/event/3901551)
 
 </div>
 
