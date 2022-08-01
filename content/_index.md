@@ -9,9 +9,13 @@ to self-organize their registration process and some organizations prefer that.
 
 <div class="alert alert-info">
 
-[General registration](https://indico.neic.no/event/226/) (except if you belong to one of the organizations below):
-- [Jyväskylä University](https://indico.neic.no/event/233/)
-- SNIC/ENCCS (Sweden): we will share a registration link with you soon
+[General registration](https://indico.neic.no/event/226/) (Anyone worldwide may
+register here for basic online attendance with no obligation.  You may
+be interested in one of the following special attendee groups, in
+which case you don't need to register here, but still can):
+- [Jyväskylä University](https://indico.neic.no/event/233/) (In-person
+  exercise and mentor group)
+- SNIC/ENCCS in Uppsala (Sweden) (In-person participation in Uppsala).  We will share a registration link with you soon.
 - TU Delft: Please register in the following [waiting list](https://c.spotler.com/ct/m7/k1/b84Ar-ips1OhrZMd-JQS0tRRLJTB6SkaCKj2sqSkXzOsBjZ2K_byUpwohTfj9v7Y/BtnNfGfZjeEVZfL).
   We will try to allocate you in a team with an exercise leader. Being on the
   waiting list does not guarantee you a spot. You will receive a confirmation
@@ -22,9 +26,11 @@ to self-organize their registration process and some organizations prefer that.
 
 </div>
 
-**If you want to join as organization or if you represent an organization with their own
-registration form**, you can manage that on your own and all we will ask you is
-to [register the teams and their contact
+**If you want to join as organization** to provide local helpers or
+in-person sessions, please do!  This usually takes the form of a
+"watching party" with coordinated breaks for exercises.  You can
+manage that on your own and all
+we will ask you is to [register the teams and their contact
 point](https://indico.neic.no/event/226/registrations/124/) with us. Later
 (during or after the workshop) we will ask you to give us actual participation
 numbers and also provide us with the affiliation contry/countries of the
