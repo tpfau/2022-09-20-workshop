@@ -15,7 +15,7 @@ be interested in one of the following special attendee groups, in
 which case you don't need to register here, but still can):
 - [Jyväskylä University](https://indico.neic.no/event/233/) (In-person
   exercise and mentor group)
-- SNIC/ENCCS in Uppsala (Sweden) (In-person participation in Uppsala).  We will share a registration link with you soon.
+- [SNIC/ENCCS in Uppsala (Sweden)](https://events.prace-ri.eu/event/1417/registrations/1051/) (In-person participation in Uppsala).
 - TU Delft: Please register in the following [waiting list](https://c.spotler.com/ct/m7/k1/b84Ar-ips1OhrZMd-JQS0tRRLJTB6SkaCKj2sqSkXzOsBjZ2K_byUpwohTfj9v7Y/BtnNfGfZjeEVZfL).
   We will try to allocate you in a team with an exercise leader. Being on the
   waiting list does not guarantee you a spot. You will receive a confirmation
