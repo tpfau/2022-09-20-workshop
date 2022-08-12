@@ -47,7 +47,7 @@ together makes it much more likely to have a lasting effect in your group.
 ### See also
 
 - [Helper
-  introduction](https://coderefinery.github.io/manuals/helper-intro/)
+  introduction](https://coderefinery.github.io/manuals/exercise-leaders/)
 - [Get more involved in
   CodeRefinery](https://coderefinery.github.io/manuals/contributing/) -
   perhaps you want to sponsor workshops or get more involved in
