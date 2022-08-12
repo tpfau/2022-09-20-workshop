@@ -59,6 +59,10 @@ form for the whole team. Team contact person registrates on behalf
 of the whole team, makes sure that team members get all the 
 information and reports revised group information after the event to us.
 
+Your exercise lead(s) should also register at "Onboarding
+registration for exercise leads, instructors, organizers, observers" so
+that they get a calendar invite with connection information.
+
 
 ### Attend in a local partner's event
 
@@ -85,6 +89,9 @@ and/or arrange a local breakout room.
     *behalf of the whole team.*
     The team contact person can also join our CodeRefinery chat to interact
     with us.
+    Your exercise lead(s) should also register at "Onboarding
+    registration for exercise leads, instructors, organizers, observers" so
+    that they get a calendar invite with connection information.
 - **Our team will work together in a physical room, is there any point to joining the Code Refinery Zoom?**
   - The Code Refinery Zoom has some Expert helpers who will drop by 
     the Zoom breakout rooms and ask if things are going OK. 
@@ -96,8 +103,15 @@ and/or arrange a local breakout room.
     you get emails direct from us and the HackMD links to ask questions.  In
     other words only one person registers the team. Team members do not need
     to register individually.
+    Your exercise lead(s) should also register at "Onboarding
+    registration for exercise leads, instructors, organizers, observers" so
+    that they get a calendar invite with connection information.
 - **I want to be an exercise lead or an observer. How do I register?**
-  - Use individual registration and choose corresponding attendance/participation type. Remember to answer also the last part questions intended for other than learners.
+  - Use individual registration and choose corresponding
+    attendance/participation type.
+    Also register at "Onboarding
+    registration for exercise leads, instructors, organizers, observers" so
+    that you get a calendar invite with connection information.
 - **I'm an organization or group, I want to sponsor my community's teams!**
   - Great! In general what you can do is to gather people together to follow the workshop. 
     [Read more about local breakout rooms](https://coderefinery.github.io/manuals/local-breakout-rooms/)
@@ -117,7 +131,8 @@ and/or arrange a local breakout room.
 - **I registered individually but later decided to take part in a registered group. What do I do?**
   - We are happy that you found yourself a group! Please withdraw 
     your [individual registration](https://indico.neic.no/event/226/registrations/)
-    to make space for others or contact us to help you with that.
+    so that you don't get conflicting information from us
+    or contact us to help you with that.
 
 
 ### Price and Zoom priority policy
