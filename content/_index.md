@@ -123,7 +123,7 @@ The schedule includes frequent breaks.
 - 8:50 - 9:00 connecting time, icebreaker
 - 9:00 - 12:30
   [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
+  (Sabry and TBA)
 
 **Day 4 (Tue, Sep 27)**
 - 8:50 - 9:00 connecting time, icebreaker
@@ -172,7 +172,7 @@ The schedule includes frequent breaks.
 
 #### Instructors and expert helpers
 
-- TBA
+- Sabry Razick (University of Oslo)
 
 
 #### Exercise leaders :heart:
